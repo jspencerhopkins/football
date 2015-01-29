@@ -9,5 +9,6 @@ class Game < ActiveRecord::Base
 		else
 			nil
 		end
+		
 	end
 end
